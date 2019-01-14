@@ -1,0 +1,5 @@
+img/*.jpg
+img/*.png
+img/*.svg
+img/Portfolio/*.jpg
+img/Portfolio/*.png
