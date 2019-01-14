@@ -844,7 +844,7 @@ ON SCROLL SLIDE IN SOCIAL MEDIA
 .shape-text{
   -webkit-shape-outside: polygon(0 0, 0 20rem, 30rem 60rem);
   shape-outside: polygon(0 0, 0 20rem, 30rem 60rem);
-  width: 65%;
+  width: 14%;
   height: 20rem;
   float: left;
   opacity: .2;
@@ -890,7 +890,7 @@ line-height: 3.5rem;
 
 .cv{
   position: absolute;
-  top: 58rem;
+  top: 52rem;
   right: 0;
   margin-right: 13rem;
   font: normal normal 700 1.8em/2.1em Armata,sans-serif;
@@ -992,7 +992,7 @@ input[type=checkbox]:checked ~ label > img{
   width: 70%;
   height: 23rem;
   position: absolute;
-  top: 62rem;
+  top: 58rem;
   right: 0;
   margin-right: 3rem;
   display: block;
